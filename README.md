@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/yaroslav-dronov-681a58254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/yaroslav-dronov-681a58254/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yaroslavdr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yaroslavdr/" height="30" width="40" /></a>
 <a href="https://instagram.com/yaroslavdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaroslavdr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yaroslavdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yaroslavdr" height="30" width="40" /></a>
 <a href="https://discord.gg/YaroslavDr#5671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YaroslavDr#5671" height="30" width="40" /></a>
